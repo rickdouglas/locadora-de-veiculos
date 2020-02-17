@@ -1,0 +1,6 @@
+compacto:4:16Mar2009(seg),18Mar2009(qua),18Mar2020(sab)
+esportivo:2:16Mar2009(seg),17Mar2009(ter),18Mar2009(dom)
+suv:7:16Mar2009(seg),17Mar2009(ter),18Mar2009(qua)
+suv:7:25Out2011(dom),17Mar2009(ter)
+compacto:4:16Out2013(seg),
+esportivo:2:23Ago2019(qua),16Fev2015(sex)
